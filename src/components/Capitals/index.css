@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 90vh;
+  margin: 100px;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.capita-container {
+  background-color: #f8fafc;
+  border-radius: 10px;
+  height: 50vh;
+  margin: 40px;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #323f4b;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.capitals-list-container {
+  list-style-type: none;
+  color: #1e293b;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 500px;
+}
+.paragraph {
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+}
